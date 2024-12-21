@@ -1,6 +1,8 @@
-#CSS Reference Guide 
-Welcome to the **CSS Reference Guide**! his guide serves as a comprehensive resource for learning the basics of CSS.
+<h1>CSS Reference Guide</h1>
+<p>Welcome to the CSS Reference Guide! This guide serves as a comprehensive resource for learning the basics of CSS.</p>
 
-## Other Resources:
-[CSS Properties](https://www.w3schools.com/cssref/index.php)
-[CSS Selectors](https://www.w3schools.com/cssref/css_selectors.php)
+<h2>Other Resources:</h2>
+<ul>
+<li><a href="https://www.w3schools.com/cssref/index.php" target="_blank">CSS Properties</a></li>
+<li> <a href="https://www.w3schools.com/cssref/css_selectors.php" target="_blank">CSS Selectors</a></li>
+</ul>
